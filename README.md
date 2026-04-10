@@ -22,35 +22,35 @@ We are **XPoint Solutions**, a software development company based in Kosice, Slo
 **Key capabilities:**
 
 - **UDP-First Ingestion** — Kernel-tuned Go backend with microsecond latency
-- - **Dynamic Payload Decoders** — Define binary-to-JSON decoders in JavaScript, update live
-  - - **Real-Time Tracking** — GPU-accelerated map rendering (Deck.gl) for thousands of assets
-    - - **Self-Hosted Maps** — Built-in OpenStreetMap tile server, no third-party accounts needed
-      - - **Geofencing & Alerts** — PostGIS-powered virtual boundaries with instant notifications
-        - - **No-Code Workflows** — Automated actions based on telemetry events or thresholds
-          - - **Enterprise RBAC** — Granular role-based access control with resource ownership
-           
-            - ### Quick Start
-           
-            - ```bash
-              # Pull and run with Docker
-              docker-compose up -d
-              # Open http://localhost:8080
-              ```
+- **Dynamic Payload Decoders** — Define binary-to-JSON decoders in JavaScript, update live
+- **Real-Time Tracking** — GPU-accelerated map rendering (Deck.gl) for thousands of assets
+- **Self-Hosted Maps** — Built-in OpenStreetMap tile server, no third-party accounts needed
+- **Geofencing & Alerts** — PostGIS-powered virtual boundaries with instant notifications
+- **No-Code Workflows** — Automated actions based on telemetry events or thresholds
+- **Enterprise RBAC** — Granular role-based access control with resource ownership
 
-              Available as **Docker images**, **standalone binaries** (Linux, macOS, Windows), and **SaaS** at [adatrack.io](https://adatrack.io).
+### Quick Start
 
-              ### Open Source Projects
+```bash
+# Pull and run with Docker
+docker-compose up -d
+# Open http://localhost:8080
+```
 
-              | Repository | Description |
-              |---|---|
-              | [**adatrack**](https://github.com/xpointsolution/adatrack) | Production-grade IoT platform for telemetry & geospatial analytics |
-              | [**gps-compare**](https://github.com/xpointsolution/gps-compare) | Algorithm for fair GPS route comparison using geometric distance |
-              | [**osm_downloader**](https://github.com/xpointsolution/osm_downloader) | Automated GPX trace downloader from OpenStreetMap |
+Available as **Docker images**, **standalone binaries** (Linux, macOS, Windows), and **SaaS** at [adatrack.io](https://adatrack.io).
 
-              ### Get in Touch
+### Open Source Projects
 
-              - **Website:** [adatrack.io](https://adatrack.io)
-              - - **Documentation:** [adatrack-io.gitbook.io](https://adatrack-io.gitbook.io)
-                - - **Discord:** [Join our community](https://discord.gg/adatrack)
-                  - - **Email:** xpointsolution@gmail.com
-                    - - **Location:** Kosice, Slovakia
+| Repository | Description |
+|---|---|
+| [**adatrack**](https://github.com/xpointsolution/adatrack) | Production-grade IoT platform for telemetry & geospatial analytics |
+| [**gps-compare**](https://github.com/xpointsolution/gps-compare) | Algorithm for fair GPS route comparison using geometric distance |
+| [**osm_downloader**](https://github.com/xpointsolution/osm_downloader) | Automated GPX trace downloader from OpenStreetMap |
+
+### Get in Touch
+
+- **Website:** [adatrack.io](https://adatrack.io)
+- **Documentation:** [adatrack-io.gitbook.io](https://adatrack-io.gitbook.io)
+- **Discord:** [Join our community](https://discord.gg/adatrack)
+- **Email:** xpointsolution@gmail.com
+- **Location:** Kosice, Slovakia
