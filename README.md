@@ -5,7 +5,7 @@
 **Building the future of IoT tracking and geospatial analytics**
 
 [![AdaTrack](https://img.shields.io/badge/AdaTrack-Production%20IoT%20Platform-0366d6?style=for-the-badge&logo=satellite&logoColor=white)](https://adatrack.io)
-[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/adatrack)
+[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sdZjavNUtS)
 
 </div>
 
